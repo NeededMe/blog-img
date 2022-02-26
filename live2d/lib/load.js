@@ -37,8 +37,8 @@ const initConfig = {
   },
   night: "toggleNightMode()",
   model: [
-    "https://cdn.jsdelivr.net/gh/journey-ad/blog-img/live2d/Diana/Diana.model3.json",
-    "https://cdn.jsdelivr.net/gh/journey-ad/blog-img/live2d/Ava/Ava.model3.json",
+    "https://programfile.oss-cn-shanghai.aliyuncs.com/models/Diana/Diana.model3.json?Expires=1645875042&OSSAccessKeyId=TMP.3KhFJGsE4zaFkCBdhoQM78V8jMXhZtwxipkXZnbNmzWeYjGZa5fs9pjFQuTBqR7yH57cAt92yFgm8rtJKutW8vuxbUZvU4&Signature=46CDaz7ugnkV6odXaxUN95r9m78%3D&versionId=CAEQNRiBgICq2eHV.RciIDhkMTZhNDc0M2Q3YTQ4ZWRhMzIxYzFjNjQ1ZTRlMGQ5",
+    "https://programfile.oss-cn-shanghai.aliyuncs.com/models/Ava/Ava.model3.json?Expires=1645875074&OSSAccessKeyId=TMP.3KhFJGsE4zaFkCBdhoQM78V8jMXhZtwxipkXZnbNmzWeYjGZa5fs9pjFQuTBqR7yH57cAt92yFgm8rtJKutW8vuxbUZvU4&Signature=VyWss6EwNQVd%2B2WXXBDZ2XP4fKk%3D&versionId=CAEQNRiBgICLpuLV.RciIGY5ZmU0MGI3NWU3MzQyMGVhMThlOWRkOTI5OWI0NDVj",
   ],
   tips: true,
   onModelLoad: onModelLoad
